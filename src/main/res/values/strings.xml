@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter Euro amount</string>
+    <string name="edit_message1">0</string>
+    <string name="banner"></string>
+    <string name="my_button">Convert to Dollar!</string>
+</resources>
